@@ -1,5 +1,5 @@
 """
-WSGI config for subcypher project.
+WSGI config for subcypher1 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

@@ -1,5 +1,5 @@
 """
-ASGI config for subcypher project.
+ASGI config for subcypher1 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
