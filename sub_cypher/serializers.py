@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import LogEntry
+from sub_cypher.models import LogEntry
 
 class LogEntrySerializer(serializers.ModelSerializer):
     class Meta:
